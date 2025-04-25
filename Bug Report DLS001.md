@@ -18,13 +18,13 @@ Steps to reproduce the behavior:
 3. Click on the Login button
 4. Fill in the email/mobile no. and password in login menu.
 
-**Expected behavior**
+**Expected behavior:**
 The instruction message should be "Please Update Your Profile & Create Factory/ warehouse Profile First."
 
-**Actual behavior**
+**Actual behavior:**
 The instruction message being displayed is "Please Update Your Profile First."
 
-**Priority**
+**Priority:**
 High
 
 **Environment (please complete the following information):**
