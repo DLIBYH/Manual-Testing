@@ -24,6 +24,9 @@ The instruction message should be "Please Update Your Profile & Create Factory/ 
 **Actual behavior**
 The instruction message being displayed is "Please Update Your Profile First."
 
+**Priority**
+High
+
 **Environment (please complete the following information):**
  - OS: [Windows 10]
  - Browser [Firefox, Chrome, Safari]
