@@ -8,7 +8,7 @@
 
 **Date:** 11/02/2025
 
-**Summary**
+**Summary:**
 When an applicant logs into the system, an incorrect instruction message is being displayed at the dashboard.
 
 **Steps To Reproduce**
